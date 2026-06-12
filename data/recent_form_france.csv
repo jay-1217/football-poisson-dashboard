@@ -1,0 +1,11 @@
+fixture_id,date,status_short,status_long,league_name,league_country,league_season,round,team_id,team_name,venue,opponent_id,opponent,goals_for,goals_against,goal_difference,result,home_team,away_team,home_goals,away_goals,possession_pct,conversion_rate
+2001,2026-05-30T19:00:00Z,FT,Match Finished,International Friendlies,World,2026,Friendly,2,France,away,26,Argentina,1,2,-1,L,Argentina,France,2,1,42,7.7
+2002,2026-05-19T19:00:00Z,FT,Match Finished,World Cup Qualifiers,World,2026,Group,2,France,home,8,Germany,2,0,2,W,France,Germany,2,0,56,16.7
+2003,2026-04-10T19:00:00Z,FT,Match Finished,World Cup Qualifiers,World,2026,Group,2,France,away,10,Spain,1,1,0,D,Spain,France,1,1,48,9.1
+2004,2026-03-26T19:00:00Z,FT,Match Finished,International Friendlies,World,2026,Friendly,2,France,home,12,Netherlands,3,1,2,W,France,Netherlands,3,1,54,20.0
+2005,2026-03-13T19:00:00Z,FT,Match Finished,World Cup Qualifiers,World,2026,Group,2,France,away,14,England,0,1,-1,L,England,France,1,0,47,0.0
+2006,2026-02-24T19:00:00Z,FT,Match Finished,International Friendlies,World,2026,Friendly,2,France,home,18,Belgium,2,2,0,D,France,Belgium,2,2,52,13.3
+2007,2026-02-04T19:00:00Z,FT,Match Finished,World Cup Qualifiers,World,2026,Group,2,France,home,17,Italy,1,0,1,W,France,Italy,1,0,59,9.1
+2008,2026-01-17T19:00:00Z,FT,Match Finished,International Friendlies,World,2026,Friendly,2,France,away,16,Portugal,2,1,1,W,Portugal,France,1,2,50,14.3
+2009,2025-12-10T19:00:00Z,FT,Match Finished,World Cup Qualifiers,World,2026,Group,2,France,home,19,Denmark,3,2,1,W,France,Denmark,3,2,57,18.8
+2010,2025-11-25T19:00:00Z,FT,Match Finished,International Friendlies,World,2026,Friendly,2,France,away,20,Croatia,1,1,0,D,Croatia,France,1,1,51,8.3
